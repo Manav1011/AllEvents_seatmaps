@@ -1350,6 +1350,17 @@ var select_row_seats=function(rowid) {
 	}
 }
 
+// New ID
+$('#svg_seat_map').find('g.seat').each(function(i,e){
+	if($(e).data('type')=="seat"){
+ 		console.log($(e).attr('id'))
+        $(e).data("randomId",null);
+        $(e).data("name",null);
+        $(e).data("ticket_type_id",null);
+        $(e).data("text",null);
+		$(e).attr('id',Math.random().toString(36).replace(/[^a-z]+/g, '').substr(0, 15));
+    }
+})
 
 <g id="StageGroup" transform="matrix(1,0,0,1,280,10)">
     <rect id="Rectangle" fill="#eee" x="0" y="0" width="1300" height="95"></rect>
@@ -2110,22 +2121,15 @@ $('.balcony').find('g.seatgroup').each(function(i,e){
         $('#ticket_type_select')[0].selectedIndex=3;
     }else{
         block="false";
-    }
-    
-    if(block==true){
-        block_row_seats($(e).attr("id"),seat_rows_names[i]);
-    }else if(block==false){
-        assign_row_seats($(e).attr("id"),seat_rows_names[i],loop_row_index);
-    }else{
-        console.log("Ignore the row..");
-    }
+    }    
+    assign_row_seats($(e).attr("id"),seat_rows_names[i],loop_row_index);
     loop_row_index++;
 })
 
 // Pavilion
 
 // left vertical block
-:J15*:J
+:L15*:L
 
 :K11*:K
 :J11*:J
@@ -2140,38 +2144,585 @@ $('.balcony').find('g.seatgroup').each(function(i,e){
 :C6*:C
 :B5*:B
 :A4*:A
+
+var select_row_seats=function(rowid) {
+	var sarray = $('#'+rowid).find('.template_item.seat');
+	var l = sarray.length;
+	for (var i = 0; i < l; i++) {
+		console.log(i)
+		console.log(sarray[i]);
+		aeseatMap.select_seat('#' + $(sarray[i]).attr('id'))
+	}
+}
+
+function assign_row_seats(rowid,rowname){
+	aeseatMap.deselect_all();
+	$('#seatmaper_namer_row').val(rowname); 
+	setTimeout(select_row_seats(rowid),300);
+	setTimeout(aeseatMap.assign_seatnames(),500);
+	setTimeout(aeseatMap.deselect_all(),200);
+}
+var seat_rows_names=[ 'L', 'K', 'J', 'I', 'H', 'G', 'F', 'E', 'D', 'C', 'B', 'A' ];
+var loop_row_index=0;
+$('.top_left_vertical').find('g.seatgroup').each(function(i,e){    
+    if(loop_row_index>11) return false;    
+    var block=false;
+    if(loop_row_index<1){
+        $('.dropdown-colorselector li a').eq(4).click();
+        $('#ticket_type_select')[0].selectedIndex=3;
+    }else if(loop_row_index>0 && loop_row_index<=3){
+        $('.dropdown-colorselector li a').eq(2).click();
+        $('#ticket_type_select')[0].selectedIndex=2;
+    }else if(loop_row_index>3 && loop_row_index<=6){
+        $('.dropdown-colorselector li a').eq(1).click();
+        $('#ticket_type_select')[0].selectedIndex=1;
+    }else if(loop_row_index>6 && loop_row_index<=11){
+        $('.dropdown-colorselector li a').eq(0).click();
+        $('#ticket_type_select')[0].selectedIndex=0;
+    }else{
+        block="false";
+    }
+    
+    if(block==true){
+        block_row_seats($(e).attr("id"),seat_rows_names[i]);
+    }else if(block==false){
+        assign_row_seats($(e).attr("id"),seat_rows_names[i]);
+    }else{
+        console.log("Ignore the row..");
+    }
+    loop_row_index++;
+})
+
 
 // right vertical block
 :A4*:A
 :B5*:B
 :C6*:C
 :D7*:D
-:E8*:E
+:E7*:E
 
 :F8*:F
-:G9*:G
-:H10*:H
+:G8*:G
+:H9*:H
 
 :I10*:I
-:J11*:J
-:K11*:K
+:J10*:J
+:K10*:K
 
 
-// Main part
-:A20\6*:A
-:B20\7*:B
-:C20\8*:C
-:D20\9*:D
-:A6*__:A12*_:A12*__:A6*:A
-:B7*__:B13*_:B13*__:B7*:B
-:C8*__:C14*_:C14*__:C8*:C
-:D9*__:D14*_:D14*__:D10*:D
-:E10*:E15*:E15*:E11*:E
-:F12*:F16*:F15*:F13*:F
-:G12*:G16*:G15*:G14*:G
-:H15*:H16*:H16*:H16*:H
-:I16*:I17*:I17*:I16*:I
-:J16*:J18*:J18*:J17*:J
+var select_row_seats=function(rowid) {
+	var sarray = $('#'+rowid).find('.template_item.seat');
+	var l = sarray.length;
+	for (var i = 0; i < l; i++) {
+		console.log(i)
+		console.log(sarray[i]);
+		aeseatMap.select_seat('#' + $(sarray[i]).attr('id'))
+	}
+}
+function assign_seatnames_programatically(rownum){
+    var row_seats = [
+        [[5,8]],
+        [[42,46]],
+        [[47,52]],
+        [[52,58]],
+        [[56,62]],
+        [[60,67]],
+        [[66,73]],
+        [[68,76]],
+        [[74,83]],
+        [[78,87]],
+        [[81,90]],
+    ]
+    var status = status || "available"; 
+    var rowName = $('#seatmaper_namer_row').val();
+    var start_from = $('#seatmaper_namer_start').val();
+    var ticket_type_id = $('#ticket_type_select').val();
+    var seatColor = $('#colorselector').val();
+    var seatName = "";
+    var current_row = row_seats[rownum];  
+    var p = aeseatMap.selected_seats_object;
+    console.log("before loop");
+    let obj_array = []
+    for (i in p) {
+    console.log(i);
+    obj_array.push(p[i]);
+    }
+    console.log("after loop");
+    console.log(obj_array[0]);
+
+    var currentObj = 0
+    current_row.forEach(function(index,column){
+        for(var i1=index[0]; i1<=index[1];i1++){
+            console.log("I",i1);
+            //generating unique key
+            var seat_key = 'SID' + ticket_type_id + '_' + rowName + '_' + i1;
+            seat_key.replace('__', '_');
+
+            seatName = rowName + '' + i1;
+
+            console.log(seat_key);
+
+            var seat = aeseatMap.getSeatObject(obj_array[currentObj]);
+            console.log("here")
+            console.log(obj_array[currentObj])
+            console.log("here")
+            seat.set_text(i1);
+
+            seat.seatDomEl.data('name', seatName);
+            seat.seatDomEl.data('ticket_type_id', ticket_type_id);
+            seat.seatDomEl.data('seatColor', seatColor);
+            seat.seatDomEl.data('status', 'available');
+            seat.seatDomEl.attr('id', seat_key);
+            seat.set_seatColor(seatColor);
+            currentObj++;
+        }
+    })
+}
+function assign_row_seats(rowid,rowname,currentrow){
+    console.log(rowid)
+	aeseatMap.deselect_all();
+	$('#seatmaper_namer_row').val(rowname); 
+	select_row_seats(rowid);
+	assign_seatnames_programatically(currentrow);
+	aeseatMap.deselect_all();
+}
+var seat_rows_names=["A","B", "C", "D", "E", "F","G","H","I","J","K"];
+var loop_row_index=0;
+$('.top_right_vertical').find('g.seatgroup').each(function(i,e){    
+    if(loop_row_index>14) return false;    
+    var block=false;
+    if(loop_row_index<=4){
+        $('.dropdown-colorselector li a').eq(0).click();
+        $('#ticket_type_select')[0].selectedIndex=0;
+    }else if(loop_row_index>4 && loop_row_index<=7){
+        $('.dropdown-colorselector li a').eq(1).click();
+        $('#ticket_type_select')[0].selectedIndex=1;
+    }else if(loop_row_index>7 && loop_row_index<=10){
+        $('.dropdown-colorselector li a').eq(2).click();
+        $('#ticket_type_select')[0].selectedIndex=2;
+    }else{
+        block="false";
+    }
+    assign_row_seats($(e).attr("id"),seat_rows_names[i],loop_row_index);
+    loop_row_index++;
+})
+
+
+
+
+// Middle Left angled
+:A6*:A
+:B7*:B
+:C8*:C
+:D9*:D
+
+:E10*:E
+:F12*:F
+:G12*:G
+
+:H15*:H
+:I16*:I
+:J16*:J
+
+:K16*:K
+:L14*:L
+:M12*:M
+:N8*:N
+:O4*:O
+
+function assign_seatnames_programatically(rownum){
+    var row_seats = [
+        [[6,11]],
+        [[7,13]],
+        [[8,15]],
+        [[9,17]],
+        [[9,18]],
+        [[10,21]],
+        [[11,22]],
+        [[11,25]],
+        [[12,27]],
+        [[12,27]],
+        [[16,31]],
+        [[1,14]],
+        [[1,12]],
+        [[1,8]],
+        [[1,4]]
+    ]
+    var status = status || "available"; 
+    var rowName = $('#seatmaper_namer_row').val();
+    var start_from = $('#seatmaper_namer_start').val();
+    var ticket_type_id = $('#ticket_type_select').val();
+    var seatColor = $('#colorselector').val();
+    var seatName = "";
+    var current_row = row_seats[rownum];  
+    var p = aeseatMap.selected_seats_object;
+    console.log("before loop");
+    let obj_array = []
+    for (i in p) {
+    console.log(i);
+    obj_array.push(p[i]);
+    }
+    console.log("after loop");
+    console.log(obj_array[0]);
+
+    var currentObj = 0
+    current_row.forEach(function(index,column){
+        for(var i1=index[0]; i1<=index[1];i1++){
+            console.log("I",i1);
+            //generating unique key
+            var seat_key = 'SID' + ticket_type_id + '_' + rowName + '_' + i1;
+            seat_key.replace('__', '_');
+
+            seatName = rowName + '' + i1;
+
+            console.log(seat_key);
+
+            var seat = aeseatMap.getSeatObject(obj_array[currentObj]);
+            console.log("here")
+            console.log(obj_array[currentObj])
+            console.log("here")
+            seat.set_text(i1);
+
+            seat.seatDomEl.data('name', seatName);
+            seat.seatDomEl.data('ticket_type_id', ticket_type_id);
+            seat.seatDomEl.data('seatColor', seatColor);
+            seat.seatDomEl.data('status', 'available');
+            seat.seatDomEl.attr('id', seat_key);
+            seat.set_seatColor(seatColor);
+            currentObj++;
+        }
+    })
+}
+function assign_row_seats(rowid,rowname,currentrow){
+	aeseatMap.deselect_all();
+	$('#seatmaper_namer_row').val(rowname); 
+	select_row_seats(rowid);
+	assign_seatnames_programatically(currentrow);
+	aeseatMap.deselect_all();
+}
+var seat_rows_names=["B", "C", "D", "E", "F","G","H","I","J","K","L","M","N","O","P"];
+var loop_row_index=0;
+$('.middle_left_angled').find('g.seatgroup').each(function(i,e){    
+    if(loop_row_index>14) return false;    
+    var block=false;
+    if(loop_row_index<=3){
+        $('.dropdown-colorselector li a').eq(0).click();
+        $('#ticket_type_select')[0].selectedIndex=0;
+    }else if(loop_row_index>3 && loop_row_index<=6){
+        $('.dropdown-colorselector li a').eq(1).click();
+        $('#ticket_type_select')[0].selectedIndex=1;
+    }else if(loop_row_index>6 && loop_row_index<=9){
+        $('.dropdown-colorselector li a').eq(2).click();
+        $('#ticket_type_select')[0].selectedIndex=2;
+    }else if(loop_row_index>9 && loop_row_index<=14){
+        $('.dropdown-colorselector li a').eq(4).click();
+        $('#ticket_type_select')[0].selectedIndex=3;
+    }else{
+        block="false";
+    }
+    assign_row_seats($(e).attr("id"),seat_rows_names[i],loop_row_index);
+    loop_row_index++;
+})
+
+
+
+
+// Middle right angled
+:A6*:A
+:B7*:B
+:C8*:C
+:D10*:D
+
+:E11*:E
+:F13*:F
+:G14*:G
+
+:H16*:H
+:I16*:I
+:J17*:J
+
+:K13*:K
+
+var select_row_seats=function(rowid) {
+	var sarray = $('#'+rowid).find('.template_item.seat');
+	var l = sarray.length;
+	for (var i = 0; i < l; i++) {
+		console.log(i)
+		console.log(sarray[i]);
+		aeseatMap.select_seat('#' + $(sarray[i]).attr('id'))
+	}
+}
+function assign_seatnames_programatically(rownum){
+    var row_seats = [
+        [[36,41]],
+        [[40,46]],
+        [[44,51]],
+        [[46,55]],
+        [[49,59]],
+        [[53,65]],
+        [[54,67]],
+        [[58,73]],
+        [[62,77]],
+        [[64,80]],
+        [[32,44]]
+    ]
+    var status = status || "available"; 
+    var rowName = $('#seatmaper_namer_row').val();
+    var start_from = $('#seatmaper_namer_start').val();
+    var ticket_type_id = $('#ticket_type_select').val();
+    var seatColor = $('#colorselector').val();
+    var seatName = "";
+    var current_row = row_seats[rownum];  
+    var p = aeseatMap.selected_seats_object;
+    console.log("before loop");
+    let obj_array = []
+    for (i in p) {
+    console.log(i);
+    obj_array.push(p[i]);
+    }
+    console.log("after loop");
+    console.log(obj_array[0]);
+
+    var currentObj = 0
+    current_row.forEach(function(index,column){
+        for(var i1=index[0]; i1<=index[1];i1++){
+            console.log("I",i1);
+            //generating unique key
+            var seat_key = 'SID' + ticket_type_id + '_' + rowName + '_' + i1;
+            seat_key.replace('__', '_');
+
+            seatName = rowName + '' + i1;
+
+            console.log(seat_key);
+
+            var seat = aeseatMap.getSeatObject(obj_array[currentObj]);
+            console.log("here")
+            console.log(obj_array[currentObj])
+            console.log("here")
+            seat.set_text(i1);
+
+            seat.seatDomEl.data('name', seatName);
+            seat.seatDomEl.data('ticket_type_id', ticket_type_id);
+            seat.seatDomEl.data('seatColor', seatColor);
+            seat.seatDomEl.data('status', 'available');
+            seat.seatDomEl.attr('id', seat_key);
+            seat.set_seatColor(seatColor);
+            currentObj++;
+        }
+    })
+}
+function assign_row_seats(rowid,rowname,currentrow){
+    console.log(rowid)
+	aeseatMap.deselect_all();
+	$('#seatmaper_namer_row').val(rowname); 
+	select_row_seats(rowid);
+	assign_seatnames_programatically(currentrow);
+	aeseatMap.deselect_all();
+}
+var seat_rows_names=["B", "C", "D", "E", "F","G","H","I","J","K","L"];
+var loop_row_index=0;
+$('.middle_right_angled').find('g.seatgroup').each(function(i,e){    
+    if(loop_row_index>14) return false;    
+    var block=false;
+    if(loop_row_index<=3){
+        $('.dropdown-colorselector li a').eq(0).click();
+        $('#ticket_type_select')[0].selectedIndex=0;
+    }else if(loop_row_index>3 && loop_row_index<=6){
+        $('.dropdown-colorselector li a').eq(1).click();
+        $('#ticket_type_select')[0].selectedIndex=1;
+    }else if(loop_row_index>6 && loop_row_index<=9){
+        $('.dropdown-colorselector li a').eq(2).click();
+        $('#ticket_type_select')[0].selectedIndex=2;
+    }else if(loop_row_index>9 && loop_row_index<=10){
+        $('.dropdown-colorselector li a').eq(4).click();
+        $('#ticket_type_select')[0].selectedIndex=3;
+    }else{
+        block="false";
+    }
+    assign_row_seats($(e).attr("id"),seat_rows_names[i],loop_row_index);
+    loop_row_index++;
+})
+
+
+
+
+
+
+
+
+// Middle Center
+:A12*__:A12*:A
+:B13*__:B13*:B
+:C14*__:C14*:C
+:D14*__:D14*:D
+
+:E15*__:E15*:E
+:F16*__:F15*:F
+:G16*__:G15*:G
+
+:H16*__:H16*:H
+:I17*__:I17*:I
+:J18*__:J18*:J
+
+
+
+:K17*__:K18*:K
+
+var select_row_seats=function(rowid) {
+	var sarray = $('#'+rowid).find('.template_item.seat');
+	var l = sarray.length;
+	for (var i = 0; i < l; i++) {
+		console.log(i)
+		console.log(sarray[i]);
+		aeseatMap.select_seat('#' + $(sarray[i]).attr('id'))
+	}
+}
+
+function assign_seatnames_programatically(rownum){
+    var row_seats = [
+        [[12,23],[24,35]],
+        [[14,26],[27,39]],
+        [[16,29],[30,43]],
+        [[18,31],[32,45]],
+        [[19,33],[34,48]],
+        [[22,37],[38,52]],
+        [[23,38],[39,53]],
+        [[26,41],[42,57]],
+        [[28,44],[45,61]],
+        [[28,45],[46,63]],
+        [[5,21],[22,39]]        
+    ]
+    var status = status || "available"; 
+    var rowName = $('#seatmaper_namer_row').val();
+    var start_from = $('#seatmaper_namer_start').val();
+    var ticket_type_id = $('#ticket_type_select').val();
+    var seatColor = $('#colorselector').val();
+    var seatName = "";
+    var current_row = row_seats[rownum];  
+    var p = aeseatMap.selected_seats_object;
+    console.log("before loop");
+    let obj_array = []
+    for (i in p) {
+    console.log(i);
+    obj_array.push(p[i]);
+    }
+    console.log("after loop");
+    console.log(obj_array[0]);
+
+    var currentObj = 0
+    current_row.forEach(function(index,column){
+        for(var i1=index[0]; i1<=index[1];i1++){
+            console.log("I",i1);
+            //generating unique key
+            var seat_key = 'SID' + ticket_type_id + '_' + rowName + '_' + i1;
+            seat_key.replace('__', '_');
+
+            seatName = rowName + '' + i1;
+
+            console.log(seat_key);
+
+            var seat = aeseatMap.getSeatObject(obj_array[currentObj]);
+            console.log("here")
+            console.log(obj_array[currentObj])
+            console.log("here")
+            seat.set_text(i1);
+
+            seat.seatDomEl.data('name', seatName);
+            seat.seatDomEl.data('ticket_type_id', ticket_type_id);
+            seat.seatDomEl.data('seatColor', seatColor);
+            seat.seatDomEl.data('status', 'available');
+            seat.seatDomEl.attr('id', seat_key);
+            seat.set_seatColor(seatColor);
+            currentObj++;
+        }
+    })
+}
+function assign_row_seats(rowid,rowname,currentrow){
+	aeseatMap.deselect_all();
+	$('#seatmaper_namer_row').val(rowname); 
+	select_row_seats(rowid);
+	assign_seatnames_programatically(currentrow);
+	aeseatMap.deselect_all();
+}
+var seat_rows_names=["B", "C", "D", "E", "F","G","H","I","J","K","P"];
+var loop_row_index=0;
+$('.middle_center').find('g.seatgroup').each(function(i,e){    
+    if(loop_row_index>14) return false;    
+    var block=false;
+    if(loop_row_index<=3){
+        $('.dropdown-colorselector li a').eq(0).click();
+        $('#ticket_type_select')[0].selectedIndex=0;
+    }else if(loop_row_index>3 && loop_row_index<=6){
+        $('.dropdown-colorselector li a').eq(1).click();
+        $('#ticket_type_select')[0].selectedIndex=1;
+    }else if(loop_row_index>6 && loop_row_index<=9){
+        $('.dropdown-colorselector li a').eq(2).click();
+        $('#ticket_type_select')[0].selectedIndex=2;
+    }else if(loop_row_index>9 && loop_row_index<=10){
+        $('.dropdown-colorselector li a').eq(4).click();
+        $('#ticket_type_select')[0].selectedIndex=3;
+    }else{
+        block="false";
+    }
+    assign_row_seats($(e).attr("id"),seat_rows_names[i],loop_row_index);
+    loop_row_index++;
+})
+
+
+// Bottom
+:P16*
+:Q16*__:Q17*__:Q17*:Q
+:R16*__:R10*:R
+:S13*__:S10*_________:S7*:S5*:S
+:T12*__:T9*__________:T7*:T5*:T
+:U11*__:U7*____________:T7*:T
+
+
+function assign_row_seats(rowid,rowname){
+	aeseatMap.deselect_all();
+	$('#seatmaper_namer_row').val(rowname); 
+	setTimeout(select_row_seats(rowid),300);
+	setTimeout(aeseatMap.assign_seatnames(),500);
+	setTimeout(aeseatMap.deselect_all(),200);
+}
+var select_row_seats=function(rowid) {
+	var sarray = $('#'+rowid).find('.template_item.seat');
+	var l = sarray.length;
+	for (var i = 0; i < l; i++) {
+		console.log(i)
+		console.log(sarray[i]);
+		aeseatMap.select_seat('#' + $(sarray[i]).attr('id'))
+	}
+}
+var seat_rows_names=["Q", "R", "S", "T", "U", "V"];
+
+var loop_row_index=0;
+$('.bottom').find('g.seatgroup').each(function(i,e){
+    loop_row_index++;
+    console.log(loop_row_index);
+
+    if(loop_row_index>6) return false;
+
+    var block=false;
+    if(loop_row_index<=3){        
+        $('.dropdown-colorselector li a').eq(5).click();
+        $('#ticket_type_select')[0].selectedIndex=4;
+    }else if(loop_row_index>3 && loop_row_index<=6){        
+        $('.dropdown-colorselector li a').eq(6).click();
+        $('#ticket_type_select')[0].selectedIndex=5;
+    }else{
+        block="false";
+    }
+//
+    console.log($(e).attr("id"));
+    console.log(seat_rows_names[i]);    
+    assign_row_seats($(e).attr("id"),seat_rows_names[i]);
+})
+
+
+
+
+
 
 
 function turn_verticle(SeatGroupParent){
