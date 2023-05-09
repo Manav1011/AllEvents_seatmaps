@@ -1,0 +1,1339 @@
+  <g class="middle_right_angled" transform="matrix(0.656059, -0.75471, 0.75471, 0.656059, -161.8172, 694.924561)">
+    <defs id="SvgjsDefs1001"></defs>
+    <g id="SvgjsG1011" transform="matrix(1,0,0,1,300,200)" class="seatgroup">
+      <g id="SvgjsG1022" data-type="row_label" class="template_item row_label" transform="matrix(1,0,0,1,35,-17.5)">
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1020">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" fill="none" id="SvgjsRect1018"></rect>
+          <text id="SvgjsText1016" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#aaa" style="white-space: pre;">A</text>
+        </svg>
+      </g>
+      <g id="SvgjsG1039" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,71.94444274902344,-17.5)">
+        <g id="SvgjsG1037" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect1035"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1033">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect1031"></rect>
+          <text id="SvgjsText1029" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG1051" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,108.88888549804688,-17.5)">
+        <g id="SvgjsG1049" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect1047"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1045">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect1043"></rect>
+          <text id="SvgjsText1041" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG1063" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,145.8333282470703,-17.5)">
+        <g id="SvgjsG1061" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect1059"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1057">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect1055"></rect>
+          <text id="SvgjsText1053" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG1075" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,182.77777099609375,-17.5)">
+        <g id="SvgjsG1073" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect1071"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1069">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect1067"></rect>
+          <text id="SvgjsText1065" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG1087" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,219.7222137451172,-17.5)">
+        <g id="SvgjsG1085" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect1083"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1081">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect1079"></rect>
+          <text id="SvgjsText1077" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG1099" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,256.6666564941406,-17.5)">
+        <g id="SvgjsG1097" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect1095"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1093">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect1091"></rect>
+          <text id="SvgjsText1089" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG1107" data-type="row_label" class="template_item row_label" transform="matrix(1,0,0,1,291.6666564941406,-17.5)">
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1105">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" fill="none" id="SvgjsRect1103"></rect>
+          <text id="SvgjsText1101" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#aaa" style="white-space: pre;">A</text>
+        </svg>
+      </g>
+    </g>
+    <g id="SvgjsG1108" transform="matrix(1,0,0,1,300,250)" class="seatgroup">
+      <g id="SvgjsG1116" data-type="row_label" class="template_item row_label" transform="matrix(1,0,0,1,35,-17.5)">
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1114">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" fill="none" id="SvgjsRect1112"></rect>
+          <text id="SvgjsText1110" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#aaa" style="white-space: pre;">B</text>
+        </svg>
+      </g>
+      <g id="SvgjsG1128" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,71.94444274902344,-17.5)">
+        <g id="SvgjsG1126" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect1124"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1122">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect1120"></rect>
+          <text id="SvgjsText1118" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG1140" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,108.88888549804688,-17.5)">
+        <g id="SvgjsG1138" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect1136"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1134">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect1132"></rect>
+          <text id="SvgjsText1130" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG1152" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,145.8333282470703,-17.5)">
+        <g id="SvgjsG1150" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect1148"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1146">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect1144"></rect>
+          <text id="SvgjsText1142" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG1164" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,182.77777099609375,-17.5)">
+        <g id="SvgjsG1162" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect1160"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1158">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect1156"></rect>
+          <text id="SvgjsText1154" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG1176" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,219.7222137451172,-17.5)">
+        <g id="SvgjsG1174" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect1172"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1170">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect1168"></rect>
+          <text id="SvgjsText1166" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG1188" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,256.6666564941406,-17.5)">
+        <g id="SvgjsG1186" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect1184"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1182">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect1180"></rect>
+          <text id="SvgjsText1178" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG1200" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,293.6111145019531,-17.5)">
+        <g id="SvgjsG1198" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect1196"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1194">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect1192"></rect>
+          <text id="SvgjsText1190" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG1208" data-type="row_label" class="template_item row_label" transform="matrix(1,0,0,1,328.6111145019531,-17.5)">
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1206">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" fill="none" id="SvgjsRect1204"></rect>
+          <text id="SvgjsText1202" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#aaa" style="white-space: pre;">B</text>
+        </svg>
+      </g>
+    </g>
+    <g id="SvgjsG1209" transform="matrix(1,0,0,1,300,300)" class="seatgroup">
+      <g id="SvgjsG1217" data-type="row_label" class="template_item row_label" transform="matrix(1,0,0,1,35,-17.5)">
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1215">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" fill="none" id="SvgjsRect1213"></rect>
+          <text id="SvgjsText1211" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#aaa" style="white-space: pre;">C</text>
+        </svg>
+      </g>
+      <g id="SvgjsG1229" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,71.94444274902344,-17.5)">
+        <g id="SvgjsG1227" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect1225"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1223">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect1221"></rect>
+          <text id="SvgjsText1219" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG1241" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,108.88888549804688,-17.5)">
+        <g id="SvgjsG1239" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect1237"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1235">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect1233"></rect>
+          <text id="SvgjsText1231" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG1253" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,145.8333282470703,-17.5)">
+        <g id="SvgjsG1251" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect1249"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1247">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect1245"></rect>
+          <text id="SvgjsText1243" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG1265" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,182.77777099609375,-17.5)">
+        <g id="SvgjsG1263" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect1261"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1259">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect1257"></rect>
+          <text id="SvgjsText1255" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG1277" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,219.7222137451172,-17.5)">
+        <g id="SvgjsG1275" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect1273"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1271">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect1269"></rect>
+          <text id="SvgjsText1267" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG1289" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,256.6666564941406,-17.5)">
+        <g id="SvgjsG1287" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect1285"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1283">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect1281"></rect>
+          <text id="SvgjsText1279" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG1301" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,293.6111145019531,-17.5)">
+        <g id="SvgjsG1299" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect1297"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1295">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect1293"></rect>
+          <text id="SvgjsText1291" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG1313" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,330.5555725097656,-17.5)">
+        <g id="SvgjsG1311" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect1309"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1307">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect1305"></rect>
+          <text id="SvgjsText1303" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG1321" data-type="row_label" class="template_item row_label" transform="matrix(1,0,0,1,365.5555725097656,-17.5)">
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1319">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" fill="none" id="SvgjsRect1317"></rect>
+          <text id="SvgjsText1315" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#aaa" style="white-space: pre;">C</text>
+        </svg>
+      </g>
+    </g>
+    <g id="SvgjsG1322" transform="matrix(1,0,0,1,300,350)" class="seatgroup">
+      <g id="SvgjsG1330" data-type="row_label" class="template_item row_label" transform="matrix(1,0,0,1,35,-17.5)">
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1328">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" fill="none" id="SvgjsRect1326"></rect>
+          <text id="SvgjsText1324" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#aaa" style="white-space: pre;">D</text>
+        </svg>
+      </g>
+      <g id="SvgjsG1342" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,71.94444274902344,-17.5)">
+        <g id="SvgjsG1340" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect1338"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1336">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect1334"></rect>
+          <text id="SvgjsText1332" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG1354" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,108.88888549804688,-17.5)">
+        <g id="SvgjsG1352" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect1350"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1348">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect1346"></rect>
+          <text id="SvgjsText1344" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG1366" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,145.8333282470703,-17.5)">
+        <g id="SvgjsG1364" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect1362"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1360">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect1358"></rect>
+          <text id="SvgjsText1356" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG1378" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,182.77777099609375,-17.5)">
+        <g id="SvgjsG1376" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect1374"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1372">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect1370"></rect>
+          <text id="SvgjsText1368" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG1390" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,219.7222137451172,-17.5)">
+        <g id="SvgjsG1388" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect1386"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1384">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect1382"></rect>
+          <text id="SvgjsText1380" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG1402" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,256.6666564941406,-17.5)">
+        <g id="SvgjsG1400" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect1398"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1396">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect1394"></rect>
+          <text id="SvgjsText1392" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG1414" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,293.6111145019531,-17.5)">
+        <g id="SvgjsG1412" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect1410"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1408">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect1406"></rect>
+          <text id="SvgjsText1404" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG1426" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,330.5555725097656,-17.5)">
+        <g id="SvgjsG1424" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect1422"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1420">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect1418"></rect>
+          <text id="SvgjsText1416" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG1438" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,367.5000305175781,-17.5)">
+        <g id="SvgjsG1436" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect1434"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1432">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect1430"></rect>
+          <text id="SvgjsText1428" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG1450" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,404.4444885253906,-17.5)">
+        <g id="SvgjsG1448" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect1446"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1444">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect1442"></rect>
+          <text id="SvgjsText1440" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG1458" data-type="row_label" class="template_item row_label" transform="matrix(1,0,0,1,439.4444885253906,-17.5)">
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1456">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" fill="none" id="SvgjsRect1454"></rect>
+          <text id="SvgjsText1452" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#aaa" style="white-space: pre;">D</text>
+        </svg>
+      </g>
+    </g>
+    <g id="SvgjsG1459" transform="matrix(1,0,0,1,300,400)" class="seatgroup"></g>
+    <g id="SvgjsG1460" transform="matrix(1,0,0,1,300,450)" class="seatgroup">
+      <g id="SvgjsG1468" data-type="row_label" class="template_item row_label" transform="matrix(1,0,0,1,35,-17.5)">
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1466">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" fill="none" id="SvgjsRect1464"></rect>
+          <text id="SvgjsText1462" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#aaa" style="white-space: pre;">E</text>
+        </svg>
+      </g>
+      <g id="SvgjsG1480" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,71.94444274902344,-17.5)">
+        <g id="SvgjsG1478" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect1476"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1474">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect1472"></rect>
+          <text id="SvgjsText1470" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG1492" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,108.88888549804688,-17.5)">
+        <g id="SvgjsG1490" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect1488"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1486">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect1484"></rect>
+          <text id="SvgjsText1482" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG1504" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,145.8333282470703,-17.5)">
+        <g id="SvgjsG1502" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect1500"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1498">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect1496"></rect>
+          <text id="SvgjsText1494" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG1516" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,182.77777099609375,-17.5)">
+        <g id="SvgjsG1514" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect1512"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1510">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect1508"></rect>
+          <text id="SvgjsText1506" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG1528" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,219.7222137451172,-17.5)">
+        <g id="SvgjsG1526" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect1524"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1522">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect1520"></rect>
+          <text id="SvgjsText1518" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG1540" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,256.6666564941406,-17.5)">
+        <g id="SvgjsG1538" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect1536"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1534">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect1532"></rect>
+          <text id="SvgjsText1530" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG1552" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,293.6111145019531,-17.5)">
+        <g id="SvgjsG1550" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect1548"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1546">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect1544"></rect>
+          <text id="SvgjsText1542" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG1564" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,330.5555725097656,-17.5)">
+        <g id="SvgjsG1562" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect1560"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1558">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect1556"></rect>
+          <text id="SvgjsText1554" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG1576" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,367.5000305175781,-17.5)">
+        <g id="SvgjsG1574" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect1572"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1570">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect1568"></rect>
+          <text id="SvgjsText1566" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG1588" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,404.4444885253906,-17.5)">
+        <g id="SvgjsG1586" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect1584"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1582">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect1580"></rect>
+          <text id="SvgjsText1578" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG1600" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,441.3889465332031,-17.5)">
+        <g id="SvgjsG1598" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect1596"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1594">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect1592"></rect>
+          <text id="SvgjsText1590" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG1608" data-type="row_label" class="template_item row_label" transform="matrix(1,0,0,1,476.3889465332031,-17.5)">
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1606">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" fill="none" id="SvgjsRect1604"></rect>
+          <text id="SvgjsText1602" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#aaa" style="white-space: pre;">E</text>
+        </svg>
+      </g>
+    </g>
+    <g id="SvgjsG1609" transform="matrix(1,0,0,1,300,500)" class="seatgroup">
+      <g id="SvgjsG1617" data-type="row_label" class="template_item row_label" transform="matrix(1,0,0,1,35,-17.5)">
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1615">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" fill="none" id="SvgjsRect1613"></rect>
+          <text id="SvgjsText1611" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#aaa" style="white-space: pre;">F</text>
+        </svg>
+      </g>
+      <g id="SvgjsG1629" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,71.94444274902344,-17.5)">
+        <g id="SvgjsG1627" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect1625"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1623">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect1621"></rect>
+          <text id="SvgjsText1619" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG1641" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,108.88888549804688,-17.5)">
+        <g id="SvgjsG1639" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect1637"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1635">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect1633"></rect>
+          <text id="SvgjsText1631" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG1653" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,145.8333282470703,-17.5)">
+        <g id="SvgjsG1651" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect1649"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1647">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect1645"></rect>
+          <text id="SvgjsText1643" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG1665" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,182.77777099609375,-17.5)">
+        <g id="SvgjsG1663" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect1661"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1659">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect1657"></rect>
+          <text id="SvgjsText1655" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG1677" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,219.7222137451172,-17.5)">
+        <g id="SvgjsG1675" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect1673"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1671">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect1669"></rect>
+          <text id="SvgjsText1667" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG1689" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,256.6666564941406,-17.5)">
+        <g id="SvgjsG1687" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect1685"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1683">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect1681"></rect>
+          <text id="SvgjsText1679" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG1701" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,293.6111145019531,-17.5)">
+        <g id="SvgjsG1699" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect1697"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1695">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect1693"></rect>
+          <text id="SvgjsText1691" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG1713" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,330.5555725097656,-17.5)">
+        <g id="SvgjsG1711" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect1709"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1707">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect1705"></rect>
+          <text id="SvgjsText1703" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG1725" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,367.5000305175781,-17.5)">
+        <g id="SvgjsG1723" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect1721"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1719">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect1717"></rect>
+          <text id="SvgjsText1715" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG1737" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,404.4444885253906,-17.5)">
+        <g id="SvgjsG1735" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect1733"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1731">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect1729"></rect>
+          <text id="SvgjsText1727" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG1749" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,441.3889465332031,-17.5)">
+        <g id="SvgjsG1747" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect1745"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1743">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect1741"></rect>
+          <text id="SvgjsText1739" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG1761" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,478.3334045410156,-17.5)">
+        <g id="SvgjsG1759" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect1757"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1755">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect1753"></rect>
+          <text id="SvgjsText1751" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG1773" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,515.27783203125,-17.5)">
+        <g id="SvgjsG1771" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect1769"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1767">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect1765"></rect>
+          <text id="SvgjsText1763" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG1781" data-type="row_label" class="template_item row_label" transform="matrix(1,0,0,1,550.27783203125,-17.5)">
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1779">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" fill="none" id="SvgjsRect1777"></rect>
+          <text id="SvgjsText1775" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#aaa" style="white-space: pre;">F</text>
+        </svg>
+      </g>
+    </g>
+    <g id="SvgjsG1782" transform="matrix(1,0,0,1,300,550)" class="seatgroup">
+      <g id="SvgjsG1790" data-type="row_label" class="template_item row_label" transform="matrix(1,0,0,1,35,-17.5)">
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1788">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" fill="none" id="SvgjsRect1786"></rect>
+          <text id="SvgjsText1784" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#aaa" style="white-space: pre;">G</text>
+        </svg>
+      </g>
+      <g id="SvgjsG1802" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,71.94444274902344,-17.5)">
+        <g id="SvgjsG1800" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect1798"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1796">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect1794"></rect>
+          <text id="SvgjsText1792" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG1814" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,108.88888549804688,-17.5)">
+        <g id="SvgjsG1812" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect1810"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1808">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect1806"></rect>
+          <text id="SvgjsText1804" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG1826" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,145.8333282470703,-17.5)">
+        <g id="SvgjsG1824" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect1822"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1820">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect1818"></rect>
+          <text id="SvgjsText1816" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG1838" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,182.77777099609375,-17.5)">
+        <g id="SvgjsG1836" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect1834"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1832">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect1830"></rect>
+          <text id="SvgjsText1828" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG1850" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,219.7222137451172,-17.5)">
+        <g id="SvgjsG1848" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect1846"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1844">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect1842"></rect>
+          <text id="SvgjsText1840" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG1862" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,256.6666564941406,-17.5)">
+        <g id="SvgjsG1860" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect1858"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1856">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect1854"></rect>
+          <text id="SvgjsText1852" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG1874" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,293.6111145019531,-17.5)">
+        <g id="SvgjsG1872" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect1870"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1868">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect1866"></rect>
+          <text id="SvgjsText1864" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG1886" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,330.5555725097656,-17.5)">
+        <g id="SvgjsG1884" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect1882"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1880">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect1878"></rect>
+          <text id="SvgjsText1876" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG1898" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,367.5000305175781,-17.5)">
+        <g id="SvgjsG1896" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect1894"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1892">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect1890"></rect>
+          <text id="SvgjsText1888" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG1910" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,404.4444885253906,-17.5)">
+        <g id="SvgjsG1908" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect1906"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1904">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect1902"></rect>
+          <text id="SvgjsText1900" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG1922" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,441.3889465332031,-17.5)">
+        <g id="SvgjsG1920" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect1918"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1916">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect1914"></rect>
+          <text id="SvgjsText1912" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG1934" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,478.3334045410156,-17.5)">
+        <g id="SvgjsG1932" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect1930"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1928">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect1926"></rect>
+          <text id="SvgjsText1924" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG1946" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,515.27783203125,-17.5)">
+        <g id="SvgjsG1944" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect1942"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1940">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect1938"></rect>
+          <text id="SvgjsText1936" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG1958" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,552.2222900390625,-17.5)">
+        <g id="SvgjsG1956" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect1954"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1952">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect1950"></rect>
+          <text id="SvgjsText1948" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG1966" data-type="row_label" class="template_item row_label" transform="matrix(1,0,0,1,587.2222900390625,-17.5)">
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1964">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" fill="none" id="SvgjsRect1962"></rect>
+          <text id="SvgjsText1960" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#aaa" style="white-space: pre;">G</text>
+        </svg>
+      </g>
+    </g>
+    <g id="SvgjsG1967" transform="matrix(1,0,0,1,300,600)" class="seatgroup"></g>
+    <g id="SvgjsG1968" transform="matrix(1,0,0,1,300,650)" class="seatgroup">
+      <g id="SvgjsG1976" data-type="row_label" class="template_item row_label" transform="matrix(1,0,0,1,35,-17.5)">
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1974">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" fill="none" id="SvgjsRect1972"></rect>
+          <text id="SvgjsText1970" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#aaa" style="white-space: pre;">H</text>
+        </svg>
+      </g>
+      <g id="SvgjsG1988" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,71.94444274902344,-17.5)">
+        <g id="SvgjsG1986" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect1984"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1982">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect1980"></rect>
+          <text id="SvgjsText1978" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG2000" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,108.88888549804688,-17.5)">
+        <g id="SvgjsG1998" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect1996"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg1994">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect1992"></rect>
+          <text id="SvgjsText1990" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG2012" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,145.8333282470703,-17.5)">
+        <g id="SvgjsG2010" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect2008"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg2006">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect2004"></rect>
+          <text id="SvgjsText2002" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG2024" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,182.77777099609375,-17.5)">
+        <g id="SvgjsG2022" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect2020"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg2018">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect2016"></rect>
+          <text id="SvgjsText2014" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG2036" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,219.7222137451172,-17.5)">
+        <g id="SvgjsG2034" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect2032"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg2030">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect2028"></rect>
+          <text id="SvgjsText2026" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG2048" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,256.6666564941406,-17.5)">
+        <g id="SvgjsG2046" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect2044"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg2042">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect2040"></rect>
+          <text id="SvgjsText2038" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG2060" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,293.6111145019531,-17.5)">
+        <g id="SvgjsG2058" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect2056"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg2054">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect2052"></rect>
+          <text id="SvgjsText2050" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG2072" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,330.5555725097656,-17.5)">
+        <g id="SvgjsG2070" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect2068"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg2066">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect2064"></rect>
+          <text id="SvgjsText2062" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG2084" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,367.5000305175781,-17.5)">
+        <g id="SvgjsG2082" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect2080"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg2078">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect2076"></rect>
+          <text id="SvgjsText2074" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG2096" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,404.4444885253906,-17.5)">
+        <g id="SvgjsG2094" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect2092"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg2090">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect2088"></rect>
+          <text id="SvgjsText2086" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG2108" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,441.3889465332031,-17.5)">
+        <g id="SvgjsG2106" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect2104"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg2102">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect2100"></rect>
+          <text id="SvgjsText2098" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG2120" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,478.3334045410156,-17.5)">
+        <g id="SvgjsG2118" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect2116"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg2114">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect2112"></rect>
+          <text id="SvgjsText2110" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG2132" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,515.27783203125,-17.5)">
+        <g id="SvgjsG2130" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect2128"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg2126">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect2124"></rect>
+          <text id="SvgjsText2122" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG2144" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,552.2222900390625,-17.5)">
+        <g id="SvgjsG2142" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect2140"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg2138">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect2136"></rect>
+          <text id="SvgjsText2134" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG2156" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,589.166748046875,-17.5)">
+        <g id="SvgjsG2154" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect2152"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg2150">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect2148"></rect>
+          <text id="SvgjsText2146" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG2168" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,626.1112060546875,-17.5)">
+        <g id="SvgjsG2166" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect2164"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg2162">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect2160"></rect>
+          <text id="SvgjsText2158" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG2176" data-type="row_label" class="template_item row_label" transform="matrix(1,0,0,1,661.1112060546875,-17.5)">
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg2174">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" fill="none" id="SvgjsRect2172"></rect>
+          <text id="SvgjsText2170" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#aaa" style="white-space: pre;">H</text>
+        </svg>
+      </g>
+    </g>
+    <g id="SvgjsG2177" transform="matrix(1,0,0,1,300,700)" class="seatgroup">
+      <g id="SvgjsG2185" data-type="row_label" class="template_item row_label" transform="matrix(1,0,0,1,35,-17.5)">
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg2183">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" fill="none" id="SvgjsRect2181"></rect>
+          <text id="SvgjsText2179" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#aaa" style="white-space: pre;">I</text>
+        </svg>
+      </g>
+      <g id="SvgjsG2197" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,71.94444274902344,-17.5)">
+        <g id="SvgjsG2195" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect2193"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg2191">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect2189"></rect>
+          <text id="SvgjsText2187" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG2209" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,108.88888549804688,-17.5)">
+        <g id="SvgjsG2207" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect2205"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg2203">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect2201"></rect>
+          <text id="SvgjsText2199" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG2221" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,145.8333282470703,-17.5)">
+        <g id="SvgjsG2219" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect2217"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg2215">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect2213"></rect>
+          <text id="SvgjsText2211" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG2233" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,182.77777099609375,-17.5)">
+        <g id="SvgjsG2231" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect2229"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg2227">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect2225"></rect>
+          <text id="SvgjsText2223" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG2245" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,219.7222137451172,-17.5)">
+        <g id="SvgjsG2243" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect2241"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg2239">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect2237"></rect>
+          <text id="SvgjsText2235" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG2257" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,256.6666564941406,-17.5)">
+        <g id="SvgjsG2255" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect2253"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg2251">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect2249"></rect>
+          <text id="SvgjsText2247" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG2269" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,293.6111145019531,-17.5)">
+        <g id="SvgjsG2267" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect2265"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg2263">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect2261"></rect>
+          <text id="SvgjsText2259" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG2281" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,330.5555725097656,-17.5)">
+        <g id="SvgjsG2279" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect2277"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg2275">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect2273"></rect>
+          <text id="SvgjsText2271" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG2293" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,367.5000305175781,-17.5)">
+        <g id="SvgjsG2291" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect2289"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg2287">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect2285"></rect>
+          <text id="SvgjsText2283" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG2305" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,404.4444885253906,-17.5)">
+        <g id="SvgjsG2303" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect2301"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg2299">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect2297"></rect>
+          <text id="SvgjsText2295" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG2317" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,441.3889465332031,-17.5)">
+        <g id="SvgjsG2315" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect2313"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg2311">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect2309"></rect>
+          <text id="SvgjsText2307" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG2329" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,478.3334045410156,-17.5)">
+        <g id="SvgjsG2327" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect2325"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg2323">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect2321"></rect>
+          <text id="SvgjsText2319" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG2341" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,515.27783203125,-17.5)">
+        <g id="SvgjsG2339" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect2337"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg2335">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect2333"></rect>
+          <text id="SvgjsText2331" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG2353" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,552.2222900390625,-17.5)">
+        <g id="SvgjsG2351" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect2349"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg2347">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect2345"></rect>
+          <text id="SvgjsText2343" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG2365" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,589.166748046875,-17.5)">
+        <g id="SvgjsG2363" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect2361"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg2359">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect2357"></rect>
+          <text id="SvgjsText2355" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG2377" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,626.1112060546875,-17.5)">
+        <g id="SvgjsG2375" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect2373"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg2371">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect2369"></rect>
+          <text id="SvgjsText2367" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG2385" data-type="row_label" class="template_item row_label" transform="matrix(1,0,0,1,661.1112060546875,-17.5)">
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg2383">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" fill="none" id="SvgjsRect2381"></rect>
+          <text id="SvgjsText2379" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#aaa" style="white-space: pre;">I</text>
+        </svg>
+      </g>
+    </g>
+    <g id="SvgjsG2386" transform="matrix(1,0,0,1,300,750)" class="seatgroup">
+      <g id="SvgjsG2394" data-type="row_label" class="template_item row_label" transform="matrix(1,0,0,1,35,-17.5)">
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg2392">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" fill="none" id="SvgjsRect2390"></rect>
+          <text id="SvgjsText2388" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#aaa" style="white-space: pre;">J</text>
+        </svg>
+      </g>
+      <g id="SvgjsG2406" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,71.94444274902344,-17.5)">
+        <g id="SvgjsG2404" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect2402"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg2400">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect2398"></rect>
+          <text id="SvgjsText2396" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG2418" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,108.88888549804688,-17.5)">
+        <g id="SvgjsG2416" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect2414"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg2412">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect2410"></rect>
+          <text id="SvgjsText2408" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG2430" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,145.8333282470703,-17.5)">
+        <g id="SvgjsG2428" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect2426"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg2424">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect2422"></rect>
+          <text id="SvgjsText2420" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG2442" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,182.77777099609375,-17.5)">
+        <g id="SvgjsG2440" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect2438"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg2436">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect2434"></rect>
+          <text id="SvgjsText2432" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG2454" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,219.7222137451172,-17.5)">
+        <g id="SvgjsG2452" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect2450"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg2448">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect2446"></rect>
+          <text id="SvgjsText2444" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG2466" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,256.6666564941406,-17.5)">
+        <g id="SvgjsG2464" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect2462"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg2460">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect2458"></rect>
+          <text id="SvgjsText2456" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG2478" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,293.6111145019531,-17.5)">
+        <g id="SvgjsG2476" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect2474"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg2472">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect2470"></rect>
+          <text id="SvgjsText2468" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG2490" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,330.5555725097656,-17.5)">
+        <g id="SvgjsG2488" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect2486"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg2484">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect2482"></rect>
+          <text id="SvgjsText2480" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG2502" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,367.5000305175781,-17.5)">
+        <g id="SvgjsG2500" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect2498"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg2496">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect2494"></rect>
+          <text id="SvgjsText2492" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG2514" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,404.4444885253906,-17.5)">
+        <g id="SvgjsG2512" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect2510"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg2508">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect2506"></rect>
+          <text id="SvgjsText2504" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG2526" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,441.3889465332031,-17.5)">
+        <g id="SvgjsG2524" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect2522"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg2520">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect2518"></rect>
+          <text id="SvgjsText2516" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG2538" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,478.3334045410156,-17.5)">
+        <g id="SvgjsG2536" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect2534"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg2532">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect2530"></rect>
+          <text id="SvgjsText2528" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG2550" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,515.27783203125,-17.5)">
+        <g id="SvgjsG2548" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect2546"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg2544">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect2542"></rect>
+          <text id="SvgjsText2540" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG2562" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,552.2222900390625,-17.5)">
+        <g id="SvgjsG2560" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect2558"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg2556">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect2554"></rect>
+          <text id="SvgjsText2552" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG2574" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,589.166748046875,-17.5)">
+        <g id="SvgjsG2572" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect2570"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg2568">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect2566"></rect>
+          <text id="SvgjsText2564" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG2586" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,626.1112060546875,-17.5)">
+        <g id="SvgjsG2584" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect2582"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg2580">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect2578"></rect>
+          <text id="SvgjsText2576" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG2598" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,663.0556640625,-17.5)">
+        <g id="SvgjsG2596" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect2594"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg2592">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect2590"></rect>
+          <text id="SvgjsText2588" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG2606" data-type="row_label" class="template_item row_label" transform="matrix(1,0,0,1,698.0556640625,-17.5)">
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg2604">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" fill="none" id="SvgjsRect2602"></rect>
+          <text id="SvgjsText2600" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#aaa" style="white-space: pre;">J</text>
+        </svg>
+      </g>
+    </g>
+    <g id="SvgjsG2607" transform="matrix(1,0,0,1,300,800)" class="seatgroup"></g>
+    <g id="SvgjsG2608" transform="matrix(1,0,0,1,300,850)" class="seatgroup">
+      <g id="SvgjsG2616" data-type="row_label" class="template_item row_label" transform="matrix(1,0,0,1,35,-17.5)">
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg2614">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" fill="none" id="SvgjsRect2612"></rect>
+          <text id="SvgjsText2610" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#aaa" style="white-space: pre;">K</text>
+        </svg>
+      </g>
+      <g id="SvgjsG2628" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,71.94444274902344,-17.5)">
+        <g id="SvgjsG2626" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect2624"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg2622">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect2620"></rect>
+          <text id="SvgjsText2618" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG2640" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,108.88888549804688,-17.5)">
+        <g id="SvgjsG2638" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect2636"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg2634">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect2632"></rect>
+          <text id="SvgjsText2630" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG2652" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,145.8333282470703,-17.5)">
+        <g id="SvgjsG2650" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect2648"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg2646">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect2644"></rect>
+          <text id="SvgjsText2642" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG2664" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,182.77777099609375,-17.5)">
+        <g id="SvgjsG2662" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect2660"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg2658">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect2656"></rect>
+          <text id="SvgjsText2654" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG2676" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,219.7222137451172,-17.5)">
+        <g id="SvgjsG2674" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect2672"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg2670">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect2668"></rect>
+          <text id="SvgjsText2666" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG2688" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,256.6666564941406,-17.5)">
+        <g id="SvgjsG2686" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect2684"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg2682">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect2680"></rect>
+          <text id="SvgjsText2678" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG2700" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,293.6111145019531,-17.5)">
+        <g id="SvgjsG2698" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect2696"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg2694">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect2692"></rect>
+          <text id="SvgjsText2690" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG2712" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,330.5555725097656,-17.5)">
+        <g id="SvgjsG2710" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect2708"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg2706">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect2704"></rect>
+          <text id="SvgjsText2702" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG2724" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,367.5000305175781,-17.5)">
+        <g id="SvgjsG2722" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect2720"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg2718">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect2716"></rect>
+          <text id="SvgjsText2714" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG2736" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,404.4444885253906,-17.5)">
+        <g id="SvgjsG2734" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect2732"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg2730">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect2728"></rect>
+          <text id="SvgjsText2726" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG2748" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,441.3889465332031,-17.5)">
+        <g id="SvgjsG2746" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect2744"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg2742">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect2740"></rect>
+          <text id="SvgjsText2738" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG2760" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,478.3334045410156,-17.5)">
+        <g id="SvgjsG2758" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect2756"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg2754">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect2752"></rect>
+          <text id="SvgjsText2750" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG2772" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,515.27783203125,-17.5)">
+        <g id="SvgjsG2770" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect2768"></rect>
+        </g>
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg2766">
+          <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect2764"></rect>
+          <text id="SvgjsText2762" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" style="white-space: pre;">-</text>
+        </svg>
+      </g>
+      <g id="SvgjsG2780" data-type="row_label" class="template_item row_label" transform="matrix(1,0,0,1,550.27783203125,-17.5)">
+        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg2778">
+          <rect x="0" y="0" rx="3" ry="3" width="30" height="35" fill="none" id="SvgjsRect2776"></rect>
+          <text id="SvgjsText2774" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#aaa" style="white-space: pre;">K</text>
+        </svg>
+      </g>
+    </g>
+  </g>
