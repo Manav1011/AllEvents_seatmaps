@@ -1351,7 +1351,7 @@ var select_row_seats=function(rowid) {
 }
 
 // New ID
-$('#svg_seat_map').find('g.seat').each(function(i,e){
+$('.middle_left_angled').find('g.seat').each(function(i,e){
 	if($(e).data('type')=="seat"){
  		console.log($(e).attr('id'))
         $(e).data("randomId",null);
@@ -2126,7 +2126,18 @@ $('.balcony').find('g.seatgroup').each(function(i,e){
     loop_row_index++;
 })
 
-// Pavilion
+
+
+
+
+
+
+
+
+
+
+
+// toronto Pavilion
 
 // left vertical block
 :L15*:L
@@ -2329,6 +2340,15 @@ $('.top_right_vertical').find('g.seatgroup').each(function(i,e){
 :M12*:M
 :N8*:N
 :O4*:O
+var select_row_seats=function(rowid) {
+	var sarray = $('#'+rowid).find('.template_item.seat');
+	var l = sarray.length;
+	for (var i = 0; i < l; i++) {
+		console.log(i)
+		console.log(sarray[i]);
+		aeseatMap.select_seat('#' + $(sarray[i]).attr('id'))
+	}
+}
 
 function assign_seatnames_programatically(rownum){
     var row_seats = [
