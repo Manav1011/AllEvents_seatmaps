@@ -1,4 +1,6 @@
-<svg version="1.1" width="2550" height="1700" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg_seat_map" xmlns="http://www.w3.org/2000/svg" xmlns:svgjs="http://svgjs.com/svgjs" xmlns:svgjs="http://svgjs.com/svgjs">
+<svg version="1.1" width="2550" height="1700" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg_seat_map" xmlns="http://www.w3.org/2000/svg" xmlns:svgjs="http://svgjs.com/svgjs">
+    <g xmlns="http://www.w3.org/2000/svg" id="stage-page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="matrix(1,0,0,1,300,130)"> <g id="STAGE" transform="translate(190.000000,-80)"> <path d="M219,1 L219,127.237745 C392.047061,144.412557 568.331834,153 747.854418,153 C927.376176,153 1103.42467,144.412636 1276,127.237989 L1276,1 L219,1 Z" id="Rectangle" stroke="#979797" stroke-width="2"></path> <text id="S-T-A-G-E" font-family="Roboto" font-size="60" font-weight="nomral" letter-spacing="2.181818" fill="#000000"> <tspan x="615.162288" y="100">S T A G E</tspan> </text> </g> </g>
+    
                                      <g id="SvgjsG47872" transform="matrix(1,0,0,1,400,300)" class="seatgroup"><g id="SvgjsG47880" data-type="row_label" class="template_item row_label" transform="matrix(1,0,0,1,35,-17.5)">
                                     <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg47878">
                                         <rect x="0" y="0" rx="3" ry="3" width="30" height="35" fill="none" id="SvgjsRect47876"></rect>
@@ -6475,4 +6477,14 @@
                                         <rect x="0" y="0" rx="3" ry="3" width="30" height="35" fill="none" id="SvgjsRect59589"></rect>
                                         <text id="SvgjsText59587" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#aaa" svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">U</text>
                                     </svg>
-                                </g></g><defs id="SvgjsDefs1001"></defs></svg>
+                                </g></g><defs id="SvgjsDefs1001"></defs>
+                                <text style="fill: rgb(51, 51, 51); font-family: FreeMono; font-size: 52px; white-space: pre;" y="1027.387" x="1050.029" svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">B A L C O N Y</text>
+<defs id="SvgjsDefs1001">
+    <linearGradient id="gradient-2" data-bx-pinned="true"></linearGradient>
+    <linearGradient id="gradient-3" data-bx-pinned="true">
+      <stop offset="0" style="stop-color: rgb(186, 218, 85);"></stop>
+      <stop offset="1" style="stop-color: rgb(117, 141, 41);"></stop>
+    </linearGradient>
+    <radialGradient id="gradient-3-0" href="#gradient-3" gradientUnits="userSpaceOnUse" cx="1229.831" cy="1209.564" r="1227.609" spreadMethod="pad"></radialGradient>
+  </defs>
+                                </svg>

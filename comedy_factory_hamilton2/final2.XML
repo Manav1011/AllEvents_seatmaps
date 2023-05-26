@@ -4,12 +4,12 @@
                                         <text id="SvgjsText42355" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#aaa" svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">A</text>
                                     </svg>
                                 </g><g id="SvgjsG42373" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,71.94444274902344,-6.5)">
-                                        <g id="SvgjsG42371" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
+                                        <g id="SvgjsG42371" class="seat" fill="#e5efff" stroke-width="3" stroke="#1168c5">
                                             <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect42369"></rect>
                                         </g>
                                         <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg42367">
                                              <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect42365"></rect>
-                                             <text id="SvgjsText42363" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">-</text>
+                                             <text id="SvgjsText42363" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#000000" svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">-</text>
                                         </svg>
                                     </g><g id="SvgjsG42385" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,108.88888549804688,3.5)">
                                         <g id="SvgjsG42383" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
@@ -6005,15 +6005,7 @@
                                         <rect x="0" y="0" rx="3" ry="3" width="30" height="35" fill="none" id="SvgjsRect52477"></rect>
                                         <text id="SvgjsText52475" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#aaa" svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">AA</text>
                                     </svg>
-                                </g><g id="SvgjsG52493" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,476.3889465332031,85.5)">
-                                        <g id="SvgjsG52491" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
-                                            <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect52489"></rect>
-                                        </g>
-                                        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg52487">
-                                             <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect52485"></rect>
-                                             <text id="SvgjsText52483" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">-</text>
-                                        </svg>
-                                    </g><g id="SvgjsG52505" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,513.3333740234375,92.5)">
+                                </g><g id="SvgjsG52505" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,513.3333740234375,92.5)">
                                         <g id="SvgjsG52503" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
                                             <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect52501"></rect>
                                         </g>
@@ -6146,15 +6138,7 @@
                                         <rect x="0" y="0" rx="3" ry="3" width="30" height="35" fill="none" id="SvgjsRect52713"></rect>
                                         <text id="SvgjsText52711" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#aaa" svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">AA</text>
                                     </svg>
-                                </g><g id="SvgjsG52729" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,1213.3336181640625,162.5)">
-                                        <g id="SvgjsG52727" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
-                                            <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect52725"></rect>
-                                        </g>
-                                        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg52723">
-                                             <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect52721"></rect>
-                                             <text id="SvgjsText52719" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">-</text>
-                                        </svg>
-                                    </g><g id="SvgjsG52741" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,1250.278076171875,161.5)">
+                                </g><g id="SvgjsG52741" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,1250.278076171875,161.5)">
                                         <g id="SvgjsG52739" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
                                             <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect52737"></rect>
                                         </g>
@@ -6351,22 +6335,6 @@
                                              <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect53041"></rect>
                                              <text id="SvgjsText53039" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">-</text>
                                         </svg>
-                                    </g><g id="SvgjsG53061" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,2245.833251953125,-16.5)">
-                                        <g id="SvgjsG53059" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
-                                            <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect53057"></rect>
-                                        </g>
-                                        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg53055">
-                                             <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect53053"></rect>
-                                             <text id="SvgjsText53051" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">-</text>
-                                        </svg>
-                                    </g><g id="SvgjsG53073" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,2282.777587890625,-27.5)">
-                                        <g id="SvgjsG53071" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
-                                            <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect53069"></rect>
-                                        </g>
-                                        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg53067">
-                                             <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect53065"></rect>
-                                             <text id="SvgjsText53063" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">-</text>
-                                        </svg>
                                     </g><g id="SvgjsG53105" data-type="row_label" class="template_item row_label" transform="matrix(1,0,0,1,2391.666259765625,-60.5)">
                                     <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg53103">
                                         <rect x="0" y="0" rx="3" ry="3" width="30" height="35" fill="none" id="SvgjsRect53101"></rect>
@@ -6446,15 +6414,7 @@
                                         <rect x="0" y="0" rx="3" ry="3" width="30" height="35" fill="none" id="SvgjsRect53238"></rect>
                                         <text id="SvgjsText53236" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#aaa" svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">BB</text>
                                     </svg>
-                                </g><g id="SvgjsG53254" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,476.3889465332031,85.5)">
-                                        <g id="SvgjsG53252" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
-                                            <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect53250"></rect>
-                                        </g>
-                                        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg53248">
-                                             <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect53246"></rect>
-                                             <text id="SvgjsText53244" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">-</text>
-                                        </svg>
-                                    </g><g id="SvgjsG53266" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,513.3333740234375,92.5)">
+                                </g><g id="SvgjsG53266" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,513.3333740234375,92.5)">
                                         <g id="SvgjsG53264" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
                                             <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect53262"></rect>
                                         </g>
@@ -6587,15 +6547,7 @@
                                         <rect x="0" y="0" rx="3" ry="3" width="30" height="35" fill="none" id="SvgjsRect53474"></rect>
                                         <text id="SvgjsText53472" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#aaa" svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">BB</text>
                                     </svg>
-                                </g><g id="SvgjsG53490" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,1213.3336181640625,162.5)">
-                                        <g id="SvgjsG53488" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
-                                            <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect53486"></rect>
-                                        </g>
-                                        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg53484">
-                                             <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect53482"></rect>
-                                             <text id="SvgjsText53480" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">-</text>
-                                        </svg>
-                                    </g><g id="SvgjsG53502" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,1250.278076171875,161.5)">
+                                </g><g id="SvgjsG53502" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,1250.278076171875,161.5)">
                                         <g id="SvgjsG53500" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
                                             <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect53498"></rect>
                                         </g>
@@ -6792,22 +6744,6 @@
                                              <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect53802"></rect>
                                              <text id="SvgjsText53800" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">-</text>
                                         </svg>
-                                    </g><g id="SvgjsG53822" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,2245.833251953125,-16.5)">
-                                        <g id="SvgjsG53820" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
-                                            <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect53818"></rect>
-                                        </g>
-                                        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg53816">
-                                             <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect53814"></rect>
-                                             <text id="SvgjsText53812" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">-</text>
-                                        </svg>
-                                    </g><g id="SvgjsG53834" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,2282.777587890625,-27.5)">
-                                        <g id="SvgjsG53832" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
-                                            <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect53830"></rect>
-                                        </g>
-                                        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg53828">
-                                             <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect53826"></rect>
-                                             <text id="SvgjsText53824" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">-</text>
-                                        </svg>
                                     </g><g id="SvgjsG53866" data-type="row_label" class="template_item row_label" transform="matrix(1,0,0,1,2391.666259765625,-60.5)">
                                     <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg53864">
                                         <rect x="0" y="0" rx="3" ry="3" width="30" height="35" fill="none" id="SvgjsRect53862"></rect>
@@ -6887,15 +6823,7 @@
                                         <rect x="0" y="0" rx="3" ry="3" width="30" height="35" fill="none" id="SvgjsRect53999"></rect>
                                         <text id="SvgjsText53997" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#aaa" svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">CC</text>
                                     </svg>
-                                </g><g id="SvgjsG54015" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,476.3889465332031,85.5)">
-                                        <g id="SvgjsG54013" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
-                                            <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect54011"></rect>
-                                        </g>
-                                        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg54009">
-                                             <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect54007"></rect>
-                                             <text id="SvgjsText54005" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">-</text>
-                                        </svg>
-                                    </g><g id="SvgjsG54027" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,513.3333740234375,92.5)">
+                                </g><g id="SvgjsG54027" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,513.3333740234375,92.5)">
                                         <g id="SvgjsG54025" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
                                             <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect54023"></rect>
                                         </g>
@@ -7028,15 +6956,7 @@
                                         <rect x="0" y="0" rx="3" ry="3" width="30" height="35" fill="none" id="SvgjsRect54235"></rect>
                                         <text id="SvgjsText54233" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#aaa" svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">CC</text>
                                     </svg>
-                                </g><g id="SvgjsG54251" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,1213.3336181640625,162.5)">
-                                        <g id="SvgjsG54249" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
-                                            <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect54247"></rect>
-                                        </g>
-                                        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg54245">
-                                             <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect54243"></rect>
-                                             <text id="SvgjsText54241" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">-</text>
-                                        </svg>
-                                    </g><g id="SvgjsG54263" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,1250.278076171875,161.5)">
+                                </g><g id="SvgjsG54263" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,1250.278076171875,161.5)">
                                         <g id="SvgjsG54261" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
                                             <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect54259"></rect>
                                         </g>
@@ -7232,22 +7152,6 @@
                                         <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg54565">
                                              <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect54563"></rect>
                                              <text id="SvgjsText54561" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">-</text>
-                                        </svg>
-                                    </g><g id="SvgjsG54583" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,2245.833251953125,-16.5)">
-                                        <g id="SvgjsG54581" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
-                                            <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect54579"></rect>
-                                        </g>
-                                        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg54577">
-                                             <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect54575"></rect>
-                                             <text id="SvgjsText54573" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">-</text>
-                                        </svg>
-                                    </g><g id="SvgjsG54595" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,2282.777587890625,-27.5)">
-                                        <g id="SvgjsG54593" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
-                                            <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect54591"></rect>
-                                        </g>
-                                        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg54589">
-                                             <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect54587"></rect>
-                                             <text id="SvgjsText54585" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">-</text>
                                         </svg>
                                     </g><g id="SvgjsG54627" data-type="row_label" class="template_item row_label" transform="matrix(1,0,0,1,2391.666259765625,-60.5)">
                                     <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg54625">
@@ -7468,14 +7372,6 @@
                                         <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg54996">
                                              <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect54994"></rect>
                                              <text id="SvgjsText54992" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">-</text>
-                                        </svg>
-                                    </g><g id="SvgjsG55014" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,1213.3336181640625,130.5)">
-                                        <g id="SvgjsG55012" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
-                                            <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect55010"></rect>
-                                        </g>
-                                        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg55008">
-                                             <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect55006"></rect>
-                                             <text id="SvgjsText55004" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">-</text>
                                         </svg>
                                     </g><g id="SvgjsG55046" data-type="row_label" class="template_item row_label" transform="matrix(1,0,0,1,1322.2225341796875,109.5)">
                                     <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg55044">
@@ -7803,14 +7699,6 @@
                                              <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect55619"></rect>
                                              <text id="SvgjsText55617" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">-</text>
                                         </svg>
-                                    </g><g id="SvgjsG55639" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,1213.3336181640625,130.5)">
-                                        <g id="SvgjsG55637" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
-                                            <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect55635"></rect>
-                                        </g>
-                                        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg55633">
-                                             <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect55631"></rect>
-                                             <text id="SvgjsText55629" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">-</text>
-                                        </svg>
                                     </g><g id="SvgjsG55671" data-type="row_label" class="template_item row_label" transform="matrix(1,0,0,1,1322.2225341796875,109.5)">
                                     <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg55669">
                                         <rect x="0" y="0" rx="3" ry="3" width="30" height="35" fill="none" id="SvgjsRect55667"></rect>
@@ -8128,14 +8016,6 @@
                                         <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg56234">
                                              <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect56232"></rect>
                                              <text id="SvgjsText56230" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">-</text>
-                                        </svg>
-                                    </g><g id="SvgjsG56252" data-type="seat" class="template_item seat" transform="matrix(1,0,0,1,1213.3336181640625,130.5)">
-                                        <g id="SvgjsG56250" class="seat" fill="#ffffff" stroke-width="3" stroke="#1168c5">
-                                            <rect x="0" y="0" rx="3" ry="3" width="30" height="35" id="SvgjsRect56248"></rect>
-                                        </g>
-                                        <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg56246">
-                                             <rect x="0" y="0" rx="3" ry="3" width="35" height="35" fill="none" id="SvgjsRect56244"></rect>
-                                             <text id="SvgjsText56242" class="text" x="50%" y="50%" dy=".3em" text-anchor="middle" font-family="Helvetica" font-size="15" font-weight="normal" fill="#FFFFFF" svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">-</text>
                                         </svg>
                                     </g><g id="SvgjsG56284" data-type="row_label" class="template_item row_label" transform="matrix(1,0,0,1,1322.2225341796875,109.5)">
                                     <svg class="svg-rect" width="30" height="35" fill="red" id="SvgjsSvg56282">
@@ -9063,4 +8943,4 @@
                                     </svg>
                                 </g></g>
                                 </g>
-                                </svg>
+                                <defs id="SvgjsDefs1095"></defs></svg>

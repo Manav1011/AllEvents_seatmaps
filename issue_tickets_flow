@@ -1,0 +1,64 @@
+reserve tickets flow
+
+{
+  "event_id": "80003470188091",
+  "payment_mode": "cash",
+  "registrations": [
+    {
+      "ticket_type_id": "6854167",
+      "data": [
+        {
+          "name": "Neel Saraiya",
+          "phone": "+16477162524",
+          "email": "realtorneels@gmail.com",
+          "custom_formdata": {},
+          "choice": {
+            "id": "SID6854167_C_13",
+            "ticket_type_id": "6854167",
+            "name": "C13",
+            "type": "seat",
+            "data": {
+              "seatColor": "#B8651B"
+            },
+            "status": "available",
+            "seat_id": "SID6854167_C_13"
+          }
+        },
+        {
+          "name": "Neel Saraiya",
+          "phone": "+16477162524",
+          "email": "realtorneels@gmail.com",
+          "custom_formdata": {},
+          "choice": {
+            "id": "SID6854167_C_14",
+            "ticket_type_id": "6854167",
+            "name": "C14",
+            "type": "seat",
+            "data": {
+              "seatColor": "#B8651B"
+            },
+            "status": "available",
+            "seat_id": "SID6854167_C_14"
+          }
+        }
+      ],
+      "ticket_price": "69.70"
+    }
+  ],
+  "utm_tracking_list": []
+}
+
+
+
+Ticket Order IDs
+ticket_data	'{"ticket_order_ids":["6672595","6672596"],"event_id":"80003470188091","coupon_code":"","validate":0,"platform":"","billing_state_code":"24"}'
+
+https://allevents.in/manage/tickets/cash/payments/bypass-payment.php?txn_id=d71434b81a1135f557ed&platform=
+
+
+
+-----------------------------114770068223324656253351378546
+Content-Disposition: form-data; name="ticket_data"
+
+{"ticket_order_ids":["6672595","6672596"],"event_id":"80003470188091","coupon_code":"","validate":1,"platform":""}
+-----------------------------114770068223324656253351378546--
