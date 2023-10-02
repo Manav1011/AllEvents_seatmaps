@@ -500,6 +500,9 @@ w 2600 h 1500
 //Tilak Mandir Pune
 700,200
 
+200,300
+1400,2500
+
 :A 5\ 3* :A 0/ 12* :A 5/ 3* :A
 :B 5\ 4* :B 0/ 13* :B 5/ 4* :B
 :C 5\ 5* :C 0/ 13* :C 5/ 5* :C
@@ -819,7 +822,7 @@ $('#svg_seat_map').find('g.seatgroup').each(function(i,e){
     loop_row_index++;
     console.log(loop_row_index);
     
-    if(loop_row_index>40) return false;
+    if(loop_row_index>22) return false;
 
     var block=false;
     //var block=true;
